@@ -17,7 +17,6 @@ A minimalist Todo List built with React, Tailwind CSS, and Zustand. Features a s
 
 To download the project, you can use the following Git command:
 
-```bash
 git clone https://github.com/leanug/react-zustand-todo.git
 
 ### Install Dependencies
