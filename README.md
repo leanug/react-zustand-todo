@@ -23,12 +23,10 @@ git clone https://github.com/leanug/react-zustand-todo.git
 ### Install Dependencies
 Navigate to the project directory and install dependencies:
 
-```bash
 cd react-zustand-todo
 npm install
 
 ### Run Locally
 To run the project locally, use the following command:
 
-```bash
 npm run dev
