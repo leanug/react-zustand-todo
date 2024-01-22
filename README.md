@@ -1,6 +1,7 @@
 # React + Vite + Zustand TODO List
 
 A minimalist Todo List built with React, Tailwind CSS, and Zustand. Features a sleek dark theme, fade-in delete, and task update icons for a clean and intuitive user experience.
+Search movies by name. Visit the [live site](https://main--react-todo-zustand.netlify.app/)
 
 - **Vite:** Lightning-fast build tool for modern web development.
 - **React:** A declarative, efficient, and flexible JavaScript library for building user interfaces.
